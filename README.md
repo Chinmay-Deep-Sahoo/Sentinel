@@ -1,7 +1,7 @@
 # Sentinel
 
 <p align="center">
-<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/57d75eca-881e-4807-b288-4b5222606c27" width="600" />
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/57d75eca-881e-4807-b288-4b5222606c27" width="600" alt = "robot output"/>
 </p>
 
 # Table of Content #
@@ -41,8 +41,8 @@ This project demonstrates how machine learning and deep learning technologies ca
 If you prefer to 3D print the camera rig, you can find the Autodesk Fusion files and STL files in the '3D Print' folder of this repository. Alternatively, you can purchase a pan tilt camera rig with servo motors already attached.
 
 <p align="center">
-<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/b50c1ad4-dba1-49fb-8f74-93a3b5410d3b" width="200" height = "225"/>
-<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/6d6a03f8-c85d-48bd-ab35-762ff85f7a86" width="225" height = "225"/>
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/b50c1ad4-dba1-49fb-8f74-93a3b5410d3b" width="200" height = "225" alt = "assembled 3D printed camera rig"/>
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/6d6a03f8-c85d-48bd-ab35-762ff85f7a86" width="225" height = "225" alt = "assembled 3D printed camera rig"/>
 </p>
 
 ### Python Libraries <a name="pl"></a>
@@ -62,7 +62,7 @@ You'll also need to install the firmata library in the Arduino IDE. Follow these
 ### Arduino Circuit Diagram <a name="acd"></a>
 Refer to the provided circuit diagram to connect the Arduino with the pan-tilt camera rig and other components, remember the Arduino PINs to which the signal wires of the servo motors are connected.
 <p align="center">
-<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/9e043deb-04ba-47ba-8dd0-3f6d83216a3c" width="800"/>
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/9e043deb-04ba-47ba-8dd0-3f6d83216a3c" width="800" alt = "circuit diagram"/>
 </p>
 
 ### Uploading Firmware to Arduino <a name="ufa"></a>
@@ -96,10 +96,10 @@ python arduino_both.py
 Watch the following videos to see the human-tracking robot in action! These demonstrations showcase the capabilities of the robot in autonomously detecting and tracking human faces in real time. Feel free to observe the accurate movements of the pan-tilt camera rig as it maintains visual focus on the detected faces. Note: I am using the 'Final-Dyn.py' script as I am using the mounted dynamic camera as my only camera.
 
 <div align="center">
-  <video src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/c4d9599b-4956-42de-b968-6013ff5e8dbc" width="400" /> 
+  <video src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/c4d9599b-4956-42de-b968-6013ff5e8dbc" width="400" alt = "demo video"/> 
 </div>
 <div align = "center">
-  <video src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/249b7897-96e3-4a7e-8a21-fefe497ed286" width="400" />
+  <video src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/249b7897-96e3-4a7e-8a21-fefe497ed286" width="400" alt = "demo video"/>
 </div>
 
 

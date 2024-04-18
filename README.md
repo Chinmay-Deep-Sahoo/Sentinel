@@ -1,8 +1,7 @@
 # Sentinel
 
 <p align="center">
-<!-- <img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/5bec9dff-051e-48de-9097-2ca55c83d39a" width="400" /> -->
-<img src="https://jumpshare.com/embed/FzimHtw6yv8TSchAA6Sq">
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/57d75eca-881e-4807-b288-4b5222606c27" width="600" />
 </p>
 
 # Project Aim
@@ -20,7 +19,12 @@ These applications demonstrate the versatility and potential of human tracking t
 
 ## Installation ##
 ### Pan Tilt Camera Rig ###
-I 3D printed the camera rig, the Autodesk Fusion files, and the STL files can be found in the '3D Print' folder.
+I 3D printed the camera rig, the Autodesk Fusion files, and the STL files can be found in the '3D Print' folder. Alternately pan tilt camera rig can be bought with servo motors attached.
+
+<p align="center">
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/b50c1ad4-dba1-49fb-8f74-93a3b5410d3b" width="200" height = "225"/>
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/6d6a03f8-c85d-48bd-ab35-762ff85f7a86" width="225" height = "225"/>
+</p>
 
 ### Code ###
 Need to install the following libraries for Python using pip:
@@ -30,6 +34,12 @@ Need to install the following libraries for Python using pip:
   
 Need to install the following library in Arduino IDE:
 *  firmata
+
+### Arduino Circuit Diagram ###
+<p align="center">
+<img src="https://github.com/Chinmay-Deep-Sahoo/Sentinel/assets/118956460/9e043deb-04ba-47ba-8dd0-3f6d83216a3c" width="700"/>
+</p>
+Need to upload standardfirmata.ino to your Arduino. It is also present as an example in the Arduino IDE.
 
 # Procedure #
 ## Human Face Detection

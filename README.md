@@ -20,7 +20,7 @@ These applications demonstrate the versatility and potential of human tracking t
 
 ## Installation ##
 ### Pan Tilt Camera Rig ###
-I 3D printed the camera rig, the Autodesk Fusion files, and the STL files can be found in the 3D Printing folder.
+I 3D printed the camera rig, the Autodesk Fusion files, and the STL files can be found in the '3D Print' folder.
 
 ### Code ###
 Need to install the following libraries for Python using pip:
